@@ -1,11 +1,12 @@
 body {
-    background-color: cornflowerblue;
+    background-color: #F8F4E3;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 h1 {
-    color: white;
+    color: #232020;
 }
 p {
-    background-color: cornsilk;
+    color: #232020;
+    background-color: #00B4D8;
 }
